@@ -8,7 +8,7 @@ I am currently taking semester 6 and have several certificates such as [Computer
 
 I have also attended [International Credit Transfer Program di Acharya Institues, India](https://drive.google.com/file/d/1DBB8R434wfXvUKPZ1MtRsDo9YpJyuGhw/view).
 
-If you are interested in getting to know me, please follow my LinkedIn account [Linkedin](https://www.linkedin.com/in/abid-rafi-nur-hastama-51b651260/).
+If you are interested in getting to know me, please follow my LinkedIn account [Linkedin](https://www.linkedin.com/in/abid-rafi/).
 
 <p align="left">
 <a href="https://github.com/rafihastama">
