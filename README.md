@@ -4,7 +4,7 @@ My name is **Abid Rafi Nur Hastama**.
 
 I'm an **Informatics Engineering Student** in [Budi Luhur University](https://www.budiluhur.ac.id/).
 
-I am currently taking semester 6 and have several certificates such as [Computer Security](https://drive.google.com/file/d/1lWwVPYhiXIFAOwG8zE4cjW0N28_Lu7Hz/view).
+I have several certificates such as [Computer Security](https://drive.google.com/file/d/1lWwVPYhiXIFAOwG8zE4cjW0N28_Lu7Hz/view).
 
 I have also attended [International Credit Transfer Program di Acharya Institues, India](https://drive.google.com/file/d/1DBB8R434wfXvUKPZ1MtRsDo9YpJyuGhw/view).
 
