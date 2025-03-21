@@ -2,7 +2,7 @@
 
 My name is **Abid Rafi Nur Hastama**.
 
-I'm an **Informatics Engineering Student** in [Budi Luhur University](https://www.budiluhur.ac.id/).
+I'm a graduated **Informatics Engineering Student** in [Budi Luhur University](https://www.budiluhur.ac.id/).
 
 I have several certificates such as [Computer Security](https://drive.google.com/file/d/1lWwVPYhiXIFAOwG8zE4cjW0N28_Lu7Hz/view).
 
